@@ -3,7 +3,7 @@
   "name": "ipcheck-ing",
   "title": "IPCheck",
   "description": "Show your local and external IPs from multiple sources, look up the location and network behind any IP address, and keep your current IP in the menu bar",
-  "icon": "ipchecking.png",
+  "icon": "assets/ipchecking.png",
   "author": "almatkai",
   "categories": [
     "Developer Tools"
